@@ -1,6 +1,6 @@
 {
   "name": "karma-closure-next-visokio",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Fork of the karma plugin with fixes to make it work in 0.12 - forked again under visokio account",
   "main": "lib/plugin.js",
   "scripts": {
